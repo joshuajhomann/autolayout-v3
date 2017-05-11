@@ -5,6 +5,7 @@
 //  Created by Joshua Homann on 5/10/17.
 //  Copyright © 2017 josh. All rights reserved.
 //
+// This idea came from Rayfix: https://github.com/rayfix/MultilineDemo
 
 import UIKit
 
